@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="logo.png" alt="AutoTyper" width="120" />
   <h1>AutoTyper</h1>
   <p>Smart text automation for documents — types like a human, powered by AI.</p>
+
+  <a href="../../releases/latest">
+    <img src="https://img.shields.io/github/v/release/YOUR_USERNAME/autotyper?label=Download&style=for-the-badge&color=7c3aed" alt="Download" />
+  </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" alt="Windows" />
   &nbsp;
